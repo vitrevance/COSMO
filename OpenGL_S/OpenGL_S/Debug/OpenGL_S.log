@@ -1,0 +1,414 @@
+﻿  Asteroid.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\asteroid.cpp(65): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\asteroid.cpp(66): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\asteroid.cpp(67): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\asteroid.cpp(68): warning C4244: аргумент: преобразование "float" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\asteroid.cpp(95): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  BeamBillboard.cpp
+  BeamController.cpp
+  Bullet.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.cpp(29): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.cpp(45): warning C4244: инициализация: преобразование "GLfloat" в "int", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.cpp(67): warning C4244: инициализация: преобразование "GLfloat" в "int", возможна потеря данных
+  BulletController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bulletcontroller.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+  Button.cpp
+  Camera.cpp
+  Cubemap.cpp
+  Decor.cpp
+  Enemy.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\enemy.cpp(108): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\enemy.cpp(111): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\enemy.cpp(116): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  Entity.cpp
+  EntityController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\entitycontroller.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\entitycontroller.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+  GameLevel.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  GameManager.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamemanager.cpp(74): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamemanager.cpp(93): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  HUDElement.cpp
+  Input.cpp
+  LevelDefault.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveldefault.cpp(39): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveldefault.cpp(100): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveldefault.cpp(101): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  LevelEaster.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveleaster.cpp(45): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveleaster.cpp(110): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\leveleaster.cpp(111): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  LevelFreeroom.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelfreeroom.cpp(40): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelfreeroom.cpp(78): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelfreeroom.cpp(79): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  LevelMeteorShower.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelmeteorshower.cpp(39): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelmeteorshower.cpp(91): warning C4305: аргумент: усечение из "double" в "GLfloat"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\levelmeteorshower.cpp(92): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Создание кода...
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(205): warning C4715: Spaceship::createBullet: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(216): warning C4715: Spaceship::shootRange: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(227): warning C4715: Spaceship::shootCooldown: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(216): warning C4715: Spaceship::shootRange: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(227): warning C4715: Spaceship::shootCooldown: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(205): warning C4715: Spaceship::createBullet: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(216): warning C4715: Spaceship::shootRange: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(227): warning C4715: Spaceship::shootCooldown: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(205): warning C4715: Spaceship::createBullet: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(216): warning C4715: Spaceship::shootRange: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(227): warning C4715: Spaceship::shootCooldown: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(205): warning C4715: Spaceship::createBullet: значение возвращается не при всех путях выполнения
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.cpp(106): warning C4715: Bullet::update: значение возвращается не при всех путях выполнения
+  Компиляция...
+  main.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\main.cpp(102): warning C4305: аргумент: усечение из "double" в "irrklang::ik_f32"
+  MainGUI.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  MainMenu.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  MenuScreen.cpp
+  Mesh.cpp
+  Models.cpp
+  NumericHUD.cpp
+  Particle.cpp
+  ParticleController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particlecontroller.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+  ParticleRenderer.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particlerenderer.cpp(56): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particlerenderer.cpp(86): warning C4244: =: преобразование "GLint" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particlerenderer.cpp(87): warning C4244: =: преобразование "GLint" в "GLfloat", возможна потеря данных
+  ParticleTexture.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particletexture.cpp(18): warning C4244: =: преобразование "float" в "GLint", возможна потеря данных
+  PauseMenu.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  Ray.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\ray.cpp(3): warning C4305: инициализация: усечение из "double" в "GLfloat"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\ray.cpp(37): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\ray.cpp(38): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\ray.cpp(39): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  SoundManager.cpp
+  Spaceship.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+  Texture.cpp
+  Создание кода...
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(238): warning C4715: Spaceship::shootCooldown: значение возвращается не при всех путях выполнения
+  etc1_utils.c
+  image_DXT.c
+  image_helper.c
+  SOIL2.c
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+Enemy.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+ParticleTexture.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+PauseMenu.obj : warning LNK4217: локально определенный символ ___glewGetUniformLocation импортирован в функцию "public: static float __cdecl std::numeric_limits<float>::epsilon(void)" (?epsilon@?$numeric_limits@M@std@@SAMXZ)
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+Enemy.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+ParticleTexture.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+Enemy.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+Enemy.obj : warning LNK4217: локально определенный символ ___glewUniform1i импортирован в функцию "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z)
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+Enemy.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+PauseMenu.obj : warning LNK4217: локально определенный символ ___glewBindVertexArray импортирован в функцию "public: __thiscall PauseMenu::PauseMenu(struct GLFWwindow *)" (??0PauseMenu@@QAE@PAUGLFWwindow@@@Z)
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+Enemy.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+ParticleTexture.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+MainGUI.obj : warning LNK4217: локально определенный символ ___glewUniform2f импортирован в функцию "public: __thiscall std::_String_val<struct std::_Simple_types<char> >::~_String_val<struct std::_Simple_types<char> >(void)" (??1?$_String_val@U?$_Simple_types@D@std@@@std@@QAE@XZ)
+MainMenu.obj : warning LNK4217: локально определенный символ ___glewUniform2f импортирован в функцию "struct glm::mat<4,4,float,0> __cdecl glm::perspectiveLH_NO<float>(float,float,float,float)" (??$perspectiveLH_NO@M@glm@@YA?AU?$mat@$03$03M$0A@@0@MMMM@Z)
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+MainGUI.obj : warning LNK4217: локально определенный символ ___glewUniform4f импортирован в функцию "public: __thiscall std::_Compressed_pair<class std::allocator<char>,class std::_String_val<struct std::_Simple_types<char> >,1>::~_Compressed_pair<class std::allocator<char>,class std::_String_val<struct std::_Simple_types<char> >,1>(void)" (??1?$_Compressed_pair@V?$allocator@D@std@@V?$_String_val@U?$_Simple_types@D@std@@@2@$00@std@@QAE@XZ)
+MainMenu.obj : warning LNK4217: локально определенный символ ___glewUniform4f импортирован в функцию "public: static unsigned int __cdecl std::char_traits<char>::length(char const * const)" (?length@?$char_traits@D@std@@SAIQBD@Z)
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+PauseMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+MainGUI.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+MainMenu.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+NumericHUD.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelEaster.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform3f
+LevelEaster.obj : warning LNK4217: локально определенный символ ___glewUniform3f импортирован в функцию "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z)
+LevelFreeroom.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform3f
+LevelMeteorShower.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform3f
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewAttachShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCompileShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCreateProgram
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCreateShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewDeleteShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetProgramInfoLog
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetProgramiv
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetShaderInfoLog
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetShaderiv
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewLinkProgram
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewShaderSource
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGenerateMipmap
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewDrawElementsInstanced
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribDivisor
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\Ruslan\Documents\VS workspace\OpenGLProj\OpenGL_S\Debug\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  OpenGL_S.vcxproj -> C:\Users\Ruslan\Documents\VS workspace\OpenGLProj\OpenGL_S\Debug\OpenGL_S.exe

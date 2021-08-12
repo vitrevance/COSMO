@@ -1,0 +1,30 @@
+#version 330 core
+
+in vec2 TexCoords;
+
+out vec4 color;
+
+uniform sampler2D tex_diffuse;
+//uniform vec2 offset1;
+//uniform float blend;
+//uniform float rows;
+//uniform float cols;
+//uniform float offset2;
+
+in vec3 Offset;
+in vec3 Params;
+
+
+
+void main()
+{
+	//vec2 texCoords = vec2(TexCoords.x / cols, TexCoords.y / rows);
+	//vec4 color1 = texture(tex_diffuse, texCoords + offset1);
+	//vec4 color2 = texture(tex_diffuse, texCoords + vec2(offset1.x, offset2));
+	
+	vec2 texCoords = vec2(TexCoords.x / Params.y, TexCoords.y / Params.x);
+	vec4 color1 = texture(tex_diffuse, texCoords + Offset.xy);
+	vec4 color2 = texture(tex_diffuse, texCoords + vec2(Offset.x, Offset.z));
+	
+	color = mix(color1, color2, Params.z);
+}

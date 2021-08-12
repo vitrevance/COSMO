@@ -1,0 +1,27 @@
+#version 330 core
+
+layout (location = 0) in vec3 position;
+layout (location = 1) in vec2 texCoords;
+layout (location = 2) in vec4 m1;
+layout (location = 3) in vec4 m2;
+layout (location = 4) in vec4 m3;
+layout (location = 5) in vec4 m4;
+layout (location = 6) in vec3 offset;
+layout (location = 7) in vec3 params;
+
+out vec2 TexCoords;
+out vec3 Offset;
+out vec3 Params;
+
+//uniform mat4 model;
+uniform mat4 projection;
+uniform mat4 view;
+
+void main()
+{
+	mat4 model = mat4(m1, m2, m3, m4);
+	gl_Position = projection * view * model * vec4(position, 1.0);
+	TexCoords = texCoords;
+	Offset = offset;
+	Params = params;
+}

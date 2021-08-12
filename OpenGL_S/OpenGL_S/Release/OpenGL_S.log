@@ -1,0 +1,46 @@
+﻿  main.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(130): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(185): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(268): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(271): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(278): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(281): warning C4244: -=: преобразование "GLfloat" в "GLint", возможна потеря данных
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\main.cpp(102): warning C4305: аргумент: усечение из "double" в "irrklang::ik_f32"
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  Создание кода
+  2 of 1873 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniformMatrix4fv
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewActiveTexture
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewGetUniformLocation
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1f
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform1i
+Asteroid.obj : warning LNK4049: импортирован локально определенный символ ___glewBindVertexArray
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewGenBuffers
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewGenVertexArrays
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewBufferData
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewBindBuffer
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribPointer
+BeamBillboard.obj : warning LNK4049: импортирован локально определенный символ ___glewEnableVertexAttribArray
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform4f
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform2f
+Button.obj : warning LNK4049: импортирован локально определенный символ ___glewUseProgram
+LevelDefault.obj : warning LNK4049: импортирован локально определенный символ ___glewUniform3f
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewLinkProgram
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewDeleteShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGenerateMipmap
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetProgramInfoLog
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewShaderSource
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewAttachShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetProgramiv
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetShaderInfoLog
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCreateProgram
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCreateShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewCompileShader
+Models.obj : warning LNK4049: импортирован локально определенный символ ___glewGetShaderiv
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewDrawElementsInstanced
+ParticleRenderer.obj : warning LNK4049: импортирован локально определенный символ ___glewVertexAttribDivisor
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB не найден с "glew32s.lib(glew.obj)" или на "C:\Users\Ruslan\Documents\VS workspace\OpenGLProj\OpenGL_S\Release\vc120.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  OpenGL_S.vcxproj -> C:\Users\Ruslan\Documents\VS workspace\OpenGLProj\OpenGL_S\Release\OpenGL_S.exe

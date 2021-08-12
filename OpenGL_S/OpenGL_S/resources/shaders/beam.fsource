@@ -1,0 +1,15 @@
+#version 330 core
+
+in vec2 TexCoords;
+
+out vec4 color;
+
+uniform sampler2D tex_diffuse;
+
+in vec3 Normal;
+in vec3 FragPos;
+
+void main()
+{
+	color = texture(tex_diffuse, TexCoords);
+}
