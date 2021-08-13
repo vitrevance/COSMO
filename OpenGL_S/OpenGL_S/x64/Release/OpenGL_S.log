@@ -1,0 +1,73 @@
+﻿  Asteroid.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  BeamBillboard.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\shader.h(9): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  BeamController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\shader.h(9): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Bullet.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.h(4): fatal error C1083: Не удается открыть файл включение: glm/gtc/type_ptr.hpp: No such file or directory,
+  BulletController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\bullet.h(4): fatal error C1083: Не удается открыть файл включение: glm/gtc/type_ptr.hpp: No such file or directory,
+  Button.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\hudelement.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Camera.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Cubemap.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\cubemap.cpp(4): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Decor.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\decor.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Enemy.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Entity.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  EntityController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  GameLevel.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  GameManager.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  HUDElement.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\hudelement.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Input.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\input.h(4): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  LevelDefault.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  LevelEaster.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  LevelFreeroom.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  LevelMeteorShower.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\gamelevel.h(6): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  Компиляция...
+  main.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\main.cpp(8): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  MainGUI.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\hudelement.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  MainMenu.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\hudelement.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  MenuScreen.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\menuscreen.h(4): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  Mesh.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\mesh.cpp(8): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Models.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\model.h(11): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  NumericHUD.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\hudelement.cpp(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Particle.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particle.h(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  ParticleController.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particle.h(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  ParticleRenderer.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particle.h(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  ParticleTexture.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\particle.h(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  PauseMenu.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\menuscreen.h(4): fatal error C1083: Не удается открыть файл включение: glm/glm.hpp: No such file or directory,
+  Ray.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\camera.cpp(3): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  SoundManager.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\soundmanager.h(4): fatal error C1083: Не удается открыть файл включение: irrKlang.h: No such file or directory,
+  Spaceship.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\spaceship.cpp(4): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  Texture.cpp
+c:\users\ruslan\documents\vs workspace\openglproj\opengl_s\opengl_s\texture.h(5): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,

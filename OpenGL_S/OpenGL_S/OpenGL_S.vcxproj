@@ -160,6 +160,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)/../Resources/assimp/include;$(SolutionDir)/../Resources/glfw/include;$(SolutionDir)/../Resources/glm/;$(SolutionDir)/../Resources/glew/include;$(SolutionDir)/../Resources/freeimage_dll_v392;$(SolutionDir)/../Resources/irrKlang-1.6.0/include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
