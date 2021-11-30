@@ -19,6 +19,7 @@ apt install libglx-dev
 apt install libglm-dev
 apt install libsfml-dev
 apt install libglew-dev
+apt install libglfw3
 apt install libassimp-dev
 
 cd ./src
