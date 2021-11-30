@@ -22,6 +22,7 @@ apt install libglew-dev
 apt install libglfw3
 apt install libglfw3-dev
 apt install libassimp-dev
+apt install libfreeimage-dev
 
 cd ./src
 
