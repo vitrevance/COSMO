@@ -18,13 +18,13 @@ apt install libopengl-dev
 apt install libglx-dev
 apt install libglm-dev
 apt install libsfml-dev
-apt install libglfw3
+apt install libglew-dev
 
 cd ./src
 
 make cosmo
 
-mv ./cosmo ./../
+cp ./cosmo ./../
 
 make clean
 
