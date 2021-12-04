@@ -11,6 +11,8 @@ echo "/usr/local/lib/irrKlang-64bit-1.6.0/bin/linux-gcc-64/" > /etc/ld.so.conf.d
 
 ldconfig
 
+cp ./src/irrKlang-64bit-1.6.0/bin/linux-gcc-64/ikpMP3.so .
+
 apt install gcc
 apt install g++
 apt install libsdl2-dev
